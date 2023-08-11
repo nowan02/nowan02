@@ -1,4 +1,4 @@
-* Welcome *
+### WELCOME
 
 I'm a beginner programmer currently studying Computer Science at uni.
 Within my repository you might find past homework projects and some of my own as well.
